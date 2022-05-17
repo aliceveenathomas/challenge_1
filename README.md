@@ -1,0 +1,4 @@
+# challenge_1
+project_title: horiseon
+project_description: search_engine_optimisation
+how_to_use_the_project: guidelines_for_search_engine_optimisation
